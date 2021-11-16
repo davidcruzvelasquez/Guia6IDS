@@ -15,12 +15,12 @@ defined('BASEPATH') or exit('No direct script access allowed');
 <div class="container mt-5">
 	<div class="row">
 		<div class="col-lg-12 text-center">
-			<h1 class="text-dark">GUÍA 6</h1>
+			<h1 class="text-success">GUÍA 7</h1>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-lg-12 text-center display-1">
-			<a href="http://localhost/Guia6-Solucion/index.php/EstudiantesController"><button class="btn btn-lg btn-primary">ENTRAR</button></a>	
+			<a href="http://localhost/Guia7-Solucion/index.php/EstudiantesController"><button class="btn btn-lg btn-success">ENTRAR</button></a>	
 		</div>
 	</div>
 </div>
